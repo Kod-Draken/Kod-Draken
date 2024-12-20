@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kod-Draken
 - 👀 I’m interested in: music, food and beverage, video games, coding.
 - 🌱 I’m currently learning: Java Enterprise
-- 💞️ I’m looking to collaborate on: Nothing for the moment
-- 📫 How to reach me: Secret
+- 💞️ I’m looking to collaborate on: Anything simple for a java beginner.
+- 📫 How to reach me: m.dackhammar@gmail.com
 - ⚡ Fun fact: I can sing any song in its original key from memory.
 
 <!---
